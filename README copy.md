@@ -131,7 +131,7 @@ This Challenge is graded based on the following criteria:
 
 * Application loads with no errors.@@@@@@@@@
 
-* Application GitHub URL submitted.???????
+* Application GitHub URL submitted.@@@
 
 * GitHub repository contains application code.@@@@@@@@
 
@@ -149,15 +149,15 @@ This Challenge is graded based on the following criteria:
 
 * Repository contains multiple descriptive commit messages.@@@@
 
-* Repository contains quality README file with description, screenshot, and link to deployed application. ????????
+* Repository contains quality README file with description, screenshot??????????, and link to deployed application. 
 
 ## Review
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+* The URL of the deployed application.   ?????
 
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
+* The URL of the GitHub repository, with a unique name and a README that describes the project.     ??????
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
